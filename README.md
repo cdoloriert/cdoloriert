@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-this is my first public profile try
+this is my first public profile try.
+###### Full stack software engineer
 
 <!--
 **cdoloriert/cdoloriert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
