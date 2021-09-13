@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-this is my first public profile try.
+this is my public profile.
+
+
 ###### Full stack software engineer
+
+- 🔭 I’m currently working on building micro services
+- 🌱 I’m currently learning python
 
 <!--
 **cdoloriert/cdoloriert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
